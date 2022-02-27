@@ -1,0 +1,1123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good nevves from all quarters of the kingdome; particularly from Gloucester. The more strange for the noveltie; first printed, and at that time when the adversary was storming that citie; and yet more strange, for its antiquitie, because assured us by a word, more stable than the earth or heaven; and by a letter of ancient date, sent to Hezekiah King of Judah. Wee have the same assurance also touching a strange destruction to the wicked, specially to those princes all, who have filled the land with bloud, that those shall not dye the common death, nor be visited after the visitation of all men, because they have done more wickedly then ever any princes before them. ... Published for the comfort of all the Godly, in all the quarters of the world, by speciall licence from their Court-booke, September 12. 1643.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85350</idno>
+            <idno type="STC">Wing G1054</idno>
+            <idno type="STC">Thomason E250_9</idno>
+            <idno type="STC">Thomason E250_10</idno>
+            <idno type="STC">ESTC R212532</idno>
+            <idno type="EEBO-CITATION">99871141</idno>
+            <idno type="PROQUEST">99871141</idno>
+            <idno type="VID">159075</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85350)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159075)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 43:E250[9] or 43:E250[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good nevves from all quarters of the kingdome; particularly from Gloucester. The more strange for the noveltie; first printed, and at that time when the adversary was storming that citie; and yet more strange, for its antiquitie, because assured us by a word, more stable than the earth or heaven; and by a letter of ancient date, sent to Hezekiah King of Judah. Wee have the same assurance also touching a strange destruction to the wicked, specially to those princes all, who have filled the land with bloud, that those shall not dye the common death, nor be visited after the visitation of all men, because they have done more wickedly then ever any princes before them. ... Published for the comfort of all the Godly, in all the quarters of the world, by speciall licence from their Court-booke, September 12. 1643.</title>
+               </titleStmt>
+               <extent>[6], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Paine and M. Simmons,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>September 13. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Oxfords Latin rimes turned into English reason" has separate register and pagination and is identified as E.250[10].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Gloucester (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:159075:1" rendition="simple:additions"/>
+            <head>
+               <hi>OXFORDS</hi> LATIN RIMES TVRNED INTO ENGLISH REASON.
+<hi>OR</hi> Horrid Blaſphemy made excellent Divinitie, there<g ref="char:EOLhyphen"/>by to give the
+Righteous aſſured confidence for ever; That, though the Adverſary
+(ſeemes) to command the <hi>meanes,</hi> yet God commands the <hi>end;</hi>
+and <hi>prayer</hi> commands God: Therefore, what ever the
+<hi>premiſſes</hi> are, the concluſion will be glorious, and the News
+very good from all thoſe <hi>Quarters, North, South,</hi> and
+<hi>Weſt,</hi> where the Adverſary boaſteth of his ſucceſſe: But
+from <hi>Briſtoll,</hi> and <hi>Glouceſter,</hi> beſt of all, be<g ref="char:EOLhyphen"/>cauſe
+there the Adverſary hath blaſphemed the <hi>Holy One,</hi> and is mad with
+rage againſt His <hi>Holy Ones.</hi>
+            </head>
+            <epigraph>
+               <q> 
+                  <p>Then ſhall the <hi>Lord</hi> be jealous for his Land, and
+pittie his people,</p>
+                  <bibl>Joel 2.18.</bibl>
+               </q>
+               <q> 
+                  <p>Thou haſt ſeene it: The poore committeth himſelfe unto
+Thee, &amp;c.</p>
+                  <bibl>Pſal. 10.14.</bibl>
+               </q>
+               <q> 
+                  <p>Iudgements are prepared for ſcorners, and ſtripes for the
+back of fooles,</p>
+                  <bibl>Pro. 19.29.</bibl>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">O</seg>Bſerving ſome picking in the duſt-heaps; others raking the
+channells in the ſtreets and ſinkes in the Kitchin, where they have found
+precious matter ſometimes, moſt times that, which hath recompenced their
+labour: I muſt obſerve herefrom, That no place, nor perſon is ſo
+barren, but may yeeld ſome fruit: Nay nothing, no not that dung, which is
+moſt unſavou<g ref="char:EOLhyphen"/>ry, becauſe it is the corruption of that which is beſt,
+but hath vertue in it, more then is ordinarily con<g ref="char:EOLhyphen"/>ceived, ſaith a great 
+<note n="*" place="margin">
+                  <hi>Paracel<g ref="char:EOLhyphen"/>ſus</hi> ſayes thus to an
+idle and uſeles per<g ref="char:EOLhyphen"/>ſon; Thou art of much leſſe uſe, then is thy
+dung: not worthy of that worſt excrement (in thy conceipt) which thou
+voydeſt. <hi>Quae Cal<g ref="char:EOLhyphen"/>cantur,</hi> things we tread un<g ref="char:EOLhyphen"/>der-foot, or leave
+there, would be of good eſteem, if we knew the uſe of them; this uſe is
+ſhew<g ref="char:EOLhyphen"/>en to the world, to<g ref="char:EOLhyphen"/>gether with other ex<g ref="char:EOLhyphen"/>cellent matters, by Mr.
+<hi>Plats,</hi> whom I know one<g ref="char:EOLhyphen"/>ly by his Bookes, a man of pre<g ref="char:EOLhyphen"/>cious uſe and
+abili<g ref="char:EOLhyphen"/>ties.</note> Schollar.</p>
+            <p>Let not the Reader then be diſcouraged at the ſight of the
+<hi>Rimes,</hi> which ſhall now be preſented to his eye, though, indeed,
+they ſmell more of the <hi>Pot,</hi> then of the <hi>Poet:</hi> and
+becauſe, probably, they came from <hi>Oxford,</hi> from whence wee can expect
+no good; for there Sathan hath his Throne, and Iniquitie hath been
+eſtabliſhed by a Law. True it is, I have as vile an eſteeme of the
+Verſes and the Poet, as he hath of his owne dung; and yet, ſith there can
+be vertue extracted thence, even out of that dung, The Reader need not doubt,
+but when I have raked them to the bottom, I ſay to the bottom, I ſhall
+finde ſome vertue there, ſome excellent Truth uttered by him as a
+<hi>ſcorne,</hi> and as through a <hi>Trunke,</hi> but ma<g ref="char:EOLhyphen"/>king very much for
+the eſtabliſhment of the Righteous, whom the <hi>fool ſcorneth.</hi> I
+ſhall ſay more to the <hi>ſcorn,</hi> for that is my maine ſcope, no
+more to the <hi>ſcorners</hi> but this, which is enough to make them
+trem<g ref="char:EOLhyphen"/>ble. 
+<note n="*" place="margin">Pro. 3.34. Pro. 29.8</note>
+               <hi>Surely the
+Lord ſcorneth the ſcorners, for they bring a Citie into a ſnare:</hi> Nay
+they ſet a Citie on 
+<note n="*" place="margin">
+                  <hi>In flam<g ref="char:EOLhyphen"/>mant ſuf<g ref="char:EOLhyphen"/>flant.</hi>
+               </note>
+fire; The Lord will perſecute them <hi>with his ſtorme,</hi> and take them
+away with his <hi>whirlewinde,</hi> if they repent not: So leaving the
+<hi>ſcorners,</hi> I come to their <hi>ſcorne,</hi> which is wrapt up in
+theſe Verſes, fifteen in number.</p>
+            <q> 
+               <l>Extincta Caſtro fax pulchra novo est,</l> 
+               <l>Nec nautae poſtea, nec militi</l> 
+               <l>Sit noto Pharos. Auſter diſparem,</l> 
+               <l>Haud tulit Caſum: murus, cui addita est</l> 
+               <l>Canina Litera, merſa est ſuis</l> 
+               <l>Cum turmis nuper Leporis vado.</l> 
+               <l>Euri <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+Briſtonia</l> 
+               <l>Leporinos Horreſcens vortices.</l> 
+               <l>Anglica Claudij timet Pares</l> 
+               <l>
+                  <g ref="char:V">Ʋ</g>rbs Caſus: Haerois Teutonici</l> 
+               <l>Myrmidones aſtant magno cum duce.</l> 
+               <l>Pacata Thule eſt; nec Noto timor.</l> 
+               <l>Popello aut Regi: Nihil relictum eſt</l> 
+               <l>Brittannicum domare Caeſarem,</l> 
+               <l>Ni <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> preces
+gregis.</l> 
+               <l>Haec Sphinges raptim Oedipo ſuo,</l>
+               <bibl>
+                  <date>Julij 20.
+1643.</date>
+               </bibl>
+            </q>
+            <p>This laſt verſe ſhewes the Poet to be a <hi>merry
+Greeke;</hi> but in the cloſe wee ſhall ſay of his <hi>laughter,</hi>
+               <hi>It is 
+<note n="*" place="margin">Eccl. 2.2.</note> mad.</hi> In my
+tranſlation I ſhall render the words firſt, then the ſenſe and
+meaning; not to the Poets liking ſure. I have not learnt of the Devill, his
+Maſter, to play the <hi>fool,</hi> or the knave, or the mad<g ref="char:EOLhyphen"/>man. 
+<pb n="2" facs="tcp:159075:2"/>I thanke God, who hath given me more grace, I have not ſold
+my ſelfe to doe evill, for then I could, as he, and the <hi>Court</hi> 
+               <note n="*" place="margin">Greek &amp; Latin Po<g ref="char:EOLhyphen"/>ets tell us of one
+<hi>Mercury,</hi> a very in<g ref="char:EOLhyphen"/>famous perſon, a notable <hi>knave,</hi> a
+cunning <hi>thiefe,</hi> and a moſt no<g ref="char:EOLhyphen"/>torious <hi>ly<g ref="char:EOLhyphen"/>ar,</hi> not his like
+in all the world; he was the <hi>Court-Mercury</hi> too; which may ſatiſfie
+the world touching the <hi>Court</hi> then, and this fel<g ref="char:EOLhyphen"/>low, Syr<g ref="char:EOLhyphen"/>named
+<hi>Mercurius Auli<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us</hi>
+now.</note> 
+               <hi>Mercury,</hi> upon the Ale-bench, <hi>make ſongs of
+David;</hi> I could (for I know their way well enough) give-up my tongue, and
+my Pen, to the Devills forge, intreat him to ſharpen them againſt the
+<hi>face of the Righteous;</hi> The Devill would gratifie me ſo farre, he
+would enable me, as well as them, natures bent being that way, to lie and
+raile, and blaſpheme; he would procure me al<g ref="char:EOLhyphen"/>ſo for doing him ſervice,
+ſome high degree in the Schooles, good gaine to my purſe, haply ſome
+place or title of honour, for ſuch ſervants are in the onely ready way to
+riſe in the world; But then I ſhould render my ſelfe a <hi>fool,</hi> and
+a <hi>knave</hi> both, and in every ſober mans conſtruction, <hi>mad</hi>
+alſo, as the newes from <hi>Oxford</hi> once a fortnight renders their
+<hi>Mercury</hi> there, and as theſe verſes render the Poet here; All of
+the eaſieſt conſtruction, eſpecially the firſt, becauſe of the
+agreement it hath with the Engliſh, wherein I had pretty skill ever ſince I
+could read latin, for thus I could interpret this verſe in <hi>Ovid, Tacturos
+ſydera ſumma putes, Thou ſhalt put ſummer ſyder into tanckards.</hi>
+Such a conſtruction the childe makes here, and yet he thinkes he hath
+propoſed a Riddle, which needs an <hi>Oedipus;</hi> no, it needs not, for</p>
+            <p>
+               <hi>[Extincta Caſtro fax pulchra novo est; nec nautae poſtea,
+nec militi ſit noto Pharos;] Pulchra fax,</hi> is the Lord <hi>Fairfax,</hi>
+(a bright ſtarre indeed, but of that anon,) and <hi>Caſtro novo</hi> is by
+<hi>Newca<g ref="char:EOLhyphen"/>ſtle,</hi> he meanes the good <hi>Earle</hi> there, and his meaning
+is very proper, for he hath no more ſenſe of <hi>God</hi> and
+<hi>goodneſſe,</hi> then have the timber and ſtones in that Caſtle; But
+we muſt not ſtifle the birth, or the Poets witty conception, which is this;
+That the bright ſtarre in the <hi>North,</hi> is quite extinct now by
+<hi>New-Castle,</hi> and ſhall be of no more uſe to Souldier or Mariner.
+<hi>Auſter diſparem haud tulit caſum.</hi> As this in the <hi>North,</hi>
+ſo the like diſaſter hath befallen the Roundheads in the <hi>South;</hi>
+for <hi>Murus cui addita eſt Canina litera, merſa eſt ſuis cum turmis
+nuper leporis vado:</hi> I have <hi>plowed with the Poets heifer,</hi> and can
+reade his Riddle; Sure <hi>Murus</hi> is a wall; So ſure <hi>Canina
+litera,</hi> is <hi>R,</hi> as they ſay in <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> where they
+<hi>make a noice like a dog, and goe round about the Citie.</hi> But here is a
+deepe conceipt, for as <hi>Caſtro novo,</hi> in the firſt verſe, is an
+<hi>Earle:</hi> ſo <hi>Murus,</hi> in the fourth verſe, is ſome excellent
+Perſon ſure, precious in the eyes of God and men; for this ſhall be
+ſpoken to the eternall reproach of <hi>Oxford,</hi> the Perſons there; That
+they have vilified and reproached thoſe, whom God will honour; and they have
+honoured thoſe with degrees in Schooles, and titles of honour, whom
+<hi>God</hi> doth account as vile, as they can eſteeme their owne dung; Had I
+heard no more but this, That the man is blaſphemed at <hi>Oxford,</hi> I
+muſt conclude preſently, as every ſober man will; <hi>This is ſome
+excellent Perſon,</hi> he hath done <hi>worthily,</hi> he is become
+<hi>famous,</hi> I know he is, for he is <hi>infamous</hi> in <hi>Oxford;</hi>
+There the drunkards make their ſongs of him, and there they make <hi>a noice
+like a dog.</hi> I proceed, <hi>Leporis</hi> of a hare, <hi>vado</hi> in a
+ſhallow water, which you may <hi>ford-over;</hi> put together, it is in
+<hi>Hare-ford,</hi> and the literall Interpre<g ref="char:EOLhyphen"/>tation; That the <hi>wall</hi>
+and all about it, was drowned in <hi>Hare-ford:</hi> The Allegoricall is this,
+and it is very witty in the Poets conceipt, <hi>That Sir William Waller, with
+all his Troopes, were ſwallowed up quick in Hare-ford,</hi> i. e. by the
+<hi>Earle of Hartford;</hi> And ſo the Poet hath added a letter to
+<hi>Murus,</hi> and that is ever an addition to a Bleſſing: and hath taken
+away a letter from his Lordſhips title of honour, which ever, in ſacred
+account, makes an addition to a curſe. It followes,</p>
+            <p>
+               <hi>Euri <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+Briſtonia, Leporinos Horreſcens vortices</hi> (i. e.) That ſhallow water
+<hi>fordable</hi> but now, is now raiſed to ſuch an height, that
+<hi>Bristol</hi> is ſwallowed up by the proud ſwelling waters of
+<hi>Hare-ford.</hi> This interpretation is literall too, and Allegoricall; one
+word onely is out of place, and impro<g ref="char:EOLhyphen"/>per, for it fits not the Allegory, yet is
+it very emphaticall; <hi>
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+Briſtonia, Bristoll groanes under cruell bondage;</hi> It does indeed, ſuch
+as <hi>Iſrael</hi> never felt under <hi>Pharaoh,</hi> and his Task-maſters;
+nor the Chriſtian under the Turke; <hi>
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Briſtonia,</hi> That Citie knowes the
+<hi>ſenſe</hi> of that word now.</p>
+            <p>
+               <hi>Anglica claudij timet pares urbs Caſus</hi> (i. e.) And
+<hi>Glouceſter</hi> lyes now at the mouth of that de<g ref="char:EOLhyphen"/>vouring floud: for
+<hi>Haerois Teutoni i</hi> Myrmidones, The <hi>Myrmidons</hi> [theſe were the
+moſt bloudy <hi>Sal<g ref="char:EOLhyphen"/>vages,</hi> that any hiſtory makes mention of, ſo
+hardened and <hi>brawned</hi> in villanies, and bloudy executi<g ref="char:EOLhyphen"/>ons, that they
+became a Proverb; a very fit word here to declare unto us, what is cleare
+enough, the more then barbarous uſages and inſolencies of thoſe Rogues,
+Theeves, Robbers, Murtherers, Beaſts in the ſhape of Men, the Souldiers] of
+the <hi>German Peer,</hi> have begirt that Citie, with their great
+<hi>Duke.</hi> The Poet meanes thoſe <hi>two, Brethren in evill,</hi> whom he
+dignifies as he thinkes fit, but God knowes, they who are highly eſteemed in
+<hi>Oxford,</hi> are an abomination in the ſight of God Their ſword hath
+made women childleſſe; It may be the <hi>Lord</hi> will be ſo gracious to
+them, that their Mother ſhall not be childleſſe amongſt women. They
+have committed lewdneſſe in <hi>Iſraels</hi> land, <hi>Gods land:</hi> It
+may be their land ſhall proſper, and they ſhall live to eat the fruits
+thereof. They have done their utmoſt to ruine thoſe, and their houſe, who
+layed out themſelves, for the building up of the <hi>Palatine</hi> houſe:
+This horrid ingratitude, this requitall of kindneſſe, is no ſin in
+<hi>Gods</hi> account; He is mercifull; It may be, the <hi>Lord</hi> will
+<hi>build theſe men a ſure houſe:</hi> They ſhall live out all their
+dayes, and when they dye,<pb n="3" facs="tcp:159075:2"/>they ſhall dye as other men, and
+be buried as thoſe, who are precious in Gods account. But there is no
+truſting to it; we have not a <hi>word</hi> for it; againſt it we have, for
+this is the <hi>word,</hi> and <hi>burden</hi> from the <hi>Lord,</hi>
+againſt all thoſe that have ſhed bloud to their power; 
+<note n="*" place="margin">Pſ. 55.23</note>
+               <hi>Bloudy and
+deceitfull men ſhall not live out halfe their dayes; Thou ſhalt
+not be joyned with them in buriall, becauſe thou haſt deſtroyed</hi>
+(<note n="*" place="margin">So we un<g ref="char:EOLhyphen"/>derſta<g ref="char:cmbAbbrStroke">̄</g>d the Poſſeſſive
+<hi>(Thy)</hi> and not that he laid his own Land waſte, ma<g ref="char:EOLhyphen"/>king it a
+<hi>Babel.</hi> Iſ<g ref="char:EOLhyphen"/>raels kings did ſo, and the moſt <hi>Chriſtian</hi>
+in name: as the Sacred &amp; French Chronicles tell us, and as our chil<g ref="char:EOLhyphen"/>dren
+will reade more at large in after times. Theſe ſcri<g ref="char:EOLhyphen"/>ptures will add waight
+to the Bur<g ref="char:EOLhyphen"/>den &amp; ter<g ref="char:EOLhyphen"/>ror of the Lord. Pſal. 5.6. Pſal. 11.5. Pro. 22.23
+&amp; 23.11. Iſa. 49.12. Zac. 14.12</note>thy) <hi>land, and ſlaine</hi>
+(thy) <hi>People</hi>
+               <note place="margin">Iſa. 14.20.</note> [againſt whom
+the Lord was a little <hi>diſpleaſed, and Babylon helped for<g ref="char:EOLhyphen"/>ward the 
+<note n="*" place="margin">Zech 1.15</note> affliction</hi>]. What
+the Poet ſayes now is of ſmall account, <hi>Thus ſayes the Lord,</hi> (as
+we have read) and this the Burden from his mouth, upon thoſe <hi>great
+Captains</hi> &amp; their <hi>Myrmidones.</hi> I proceed.</p>
+            <p>
+               <hi>Pacata Thule eſt; Scotland</hi> is quiet (ſayes
+<hi>Oxford</hi> Poet, I ſhall ſay more to that anon) <hi>Nec noto ti<g ref="char:EOLhyphen"/>mor
+Popello aut Regi,</hi> nor is there any feare from the <hi>North,</hi> but that
+all there abouts will come forth to the Kings foot, and be trod under, as
+<hi>the mire in the ſtreets;</hi> for (mark it) <hi>nihil relictum est
+Bri<g ref="char:EOLhyphen"/>tannicum domare Caeſarem;</hi> There is no let in the world whereby to
+keepe downe <hi>Caeſar</hi> (the King) from [aſcending above <hi>the height
+of the Clouds, and] being [like the moſt High,]</hi> an abſolute Mo<g ref="char:EOLhyphen"/>narch,
+whoſe Rule is his <hi>will</hi> [it had need be an <hi>holy will,</hi> but
+ſuch is onely Gods <hi>will</hi>] nothing can hinder this now, now that
+<hi>New-Caſtle</hi> hath put out the ſtarre in the <hi>North;
+Hare-ford</hi> hath over<g ref="char:EOLhyphen"/>flowed the <hi>wall</hi> in the <hi>South,</hi> and
+the two Brothers are ſo proſperous in the <hi>Weſt;</hi> nothing can
+hinder now, but <hi>Preces gregis,</hi> the prayers of a poore flock [of
+ſheepe, <hi>Armenta</hi> and <hi>Pecora,</hi> are great Cattle ever, 
+<note n="*" place="margin">Amo. 4.1</note>
+               <hi>The Bulls and kine of
+Baſhan, which oppreſſe the poore, which cruſh the needy,</hi>
+(<hi>Gregis</hi> is of a flock of ſheep]
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, newly fallen mad; he meanes a
+poore deſpicable, helpleſſe, (I doe not ſay hopeleſſe) deſtitute,
+caſt out, fatherleſſe People, a People vile in their owne eyes, (but of
+high account with God. Theſe he meanes; Then his meaning is, nothing remaines
+now that <hi>New-Caſtle</hi> is ſo for<g ref="char:EOLhyphen"/>tified and ſtrong;
+<hi>Hare-fords</hi> waters ſo riſen, ſwelled ſo high, and
+ſtorme-like, ſwallowing-up, and <hi>ſtorming</hi> all before it, and
+leaving no food behind it; Now that the two <hi>Roaring Lyons</hi> [the Lord
+calls them 
+<note n="*" place="margin">Zeph. 3.3</note> ſo, and I dare not
+thinke of a fitter expreſſion] have their mouths wide open to ſwallow-up
+<hi>Glouceſter,</hi> the Inhabitants there, and all about; nothing remaines
+now to ſave theſe <hi>poore flock</hi> from theſe Devourers,
+<hi>Niſi,</hi> but, <hi>The prayers of the poore of the flock,</hi> a poore,
+deſtitute, caſt-out People. Well, bleſſed be God, theſe people have,
+<hi>But</hi> their Adverſaries allowance, and yet they have enough! yes,
+enough and enough, for they have <hi>All,</hi> God and 
+<note n="*" place="margin">Gen. 33.11.</note>
+               <hi>All; Enough</hi>
+then, though (which I will adde) all the Adverſaries Brethren, the Kings good
+Subjects in <hi>Ireland,</hi> (theſe were called horrid Rebells an yeare and
+halfe agoe in a Court Complement) though theſe are called over to doe their
+King the like good ſervice here, which they have done him in
+<hi>Ireland;</hi> yet theſe people have <hi>enough,</hi> though but af<g ref="char:EOLhyphen"/>ter
+their Adverſaries allowance: and they can, though they are, as
+<hi>Nehemiah</hi> and <hi>Daniel</hi> were, 
+<note n="*" place="margin">Neh. 1.4 2.1.</note>
+               <hi>ſad, faint,</hi>
+and 
+<note n="*" place="margin">Dan 8.27.</note>
+               <hi>ſicke</hi> alſo,
+becauſe of what they heare and ſee, yet they can recover themſelves, and
+rejoyce in their portion. They have a <hi>God</hi> to goe unto, (when I have
+ſaid <hi>God,</hi> I have ſaid All) The wrath of man ſhall praiſe him;
+The treachery of man ſhall advance his faithfulneſſe, as the
+weakneſſe, fooliſh<g ref="char:EOLhyphen"/>neſſe, and wickedneſſe of man doth advance the
+power, wiſdome, and goodneſſe of God. The Adver<g ref="char:EOLhyphen"/>ſary with all their
+counſell and ſtrength muſt fall before the <hi>hand lifted-up,</hi> for
+it is lifted up to the moſt high God, God of Hoſts, King of Saints. They
+can pray unto him, commit all their concern<g ref="char:EOLhyphen"/>ments unto the boſom of a Father,
+who is then neareſt to his Children, the nearer danger is. Prayers ſhall
+turn all this to the furtherance of the Goſpel, and the increaſe of the
+Churches joy. The Adver<g ref="char:EOLhyphen"/>ſary may have ſo much power, as to reſtraine Sea
+and Land both, and ſet open the gates of Hell againſt the Church; He cannot
+reſtraine prayer, which openeth the treaſury of Heaven, and commands God
+there, as we ſhall ſee preſently. Bleſſed be God, the Father of our
+Lord Jeſus Chriſt; He ſuffers his peoples adverſaries to carve forth
+his Childrens portion, and behold it a large portion. The Adverſary now has
+aſſigned a Sanctuary to the people of God, a place of Refuge indeed, a
+ſtrong Tower, the <hi>Name of the Lord,</hi> the <hi>Righteous fly unto it,
+and they are 
+<note n="*" place="margin">Pro. 18.10.</note> ſafe.</hi> Nothing
+remaines now, whereby to ſave theſe people from falling into the mouth of
+the devourer, but the prayers of the deſtitute, that is enough, till that
+Refuge faileth, the hearts of the Righteous cannot faile; But that refuge never
+fail<g ref="char:EOLhyphen"/>eth; <hi>In the Lord Jehovah, is everlaſting 
+<note n="*" place="margin">Iſa. 26.4.</note> ſtrength,</hi> an
+everlaſting ground for everlaſting confi<g ref="char:EOLhyphen"/>dence; 
+<q rend="inline">"To eſtabliſh the Righteous now &amp;
+evermore, on this foundation, That the <hi>iſſue</hi> or <hi>end</hi> will
+be <hi>good;</hi> the wicked connot over-rule there, the <hi>end</hi> is out of
+their ſpheare, that God makes, He is Ma<g ref="char:EOLhyphen"/>ſter 
+<note n="*" place="margin">James 5.11.</note> there. The King could
+purſue <hi>Iſrael</hi> with deadly hatred, he could ſpeak 
+<note n="*" place="margin">Exo 15.9</note> proudly, but he could
+not overtake <hi>Iſrael.</hi> Another King, as proud as the former, could, in
+his rage, command the furnace to be heated ſeven-times hotter then 
+<note n="*" place="margin">Dan. 3.19. Ver. 25.</note> ordinary; he
+could not command the <hi>end,</hi> not make the fire burn, there <hi>God</hi>
+over-ruled; The ſervants of the 
+<note place="margin">Heb. 11.34.</note>
+                  <hi>Lord quenched the
+violence of the flame.</hi> What ever the <hi>Premiſſes</hi> are, which the
+wicked have made, how agreeable ſoever to their ſenſe and reaſon, yet
+they can <hi>do no more,</hi> God will draw the Concluſion evermore by ſuch
+a kinde of <hi>Logick,</hi> as ſenſe and reaſon, the Philoſophy of the
+world, is not acquainted with, onely God knows, and in his favour, he has made
+his Children know it, &amp; given them aſſurance touching that matter, and
+ſo they lye at An<g ref="char:EOLhyphen"/>chor <pb n="4" facs="tcp:159075:3"/>in God, confident under his
+ſhadow.</q> Reſolved fully at this high point, <hi>That God commands the
+end, and Prayer commands God.</hi> And this bids the people of God, expect good
+newes from all Quar<g ref="char:EOLhyphen"/>ters, yea out of the <hi>Weſt</hi> alſo, where the
+Churches Sunne ſeemed to ſet. Behold then, the Poet does <hi>belch</hi> out
+a double Blaſphemy; whence I ſhall draw a double Concluſion, &amp; make
+it Chriſtian Divinitie.</p>
+            <q> 
+               <list>
+                  <item>1. "That Prayers, which the Poet accounts <hi>a
+nothing,</hi> but (i.e.) a thing of no account, are of high account with God,
+and the great Confidence of the godly.</item>
+                  <item> 2. "That thoſe he accounts <hi>mad</hi> people, are the
+onely ſober men in the world. I will enlarge upon the firſt, but firſt I
+will explain it.</item>
+               </list>
+            </q>
+            <p>Whereas I ſaid, Prayers are of high account with God, and very
+efficacious to bring to paſſe all the Churches deſignes, and to
+fruſtrate the Adverſaries; That is true enough, there can be no miſtake
+there; for the Adverſary meanes, the Prayers of a deſtitute People, theirs
+I ſay, and he muſt ſay ſo too, who have a <hi>Father</hi> to goe unto,
+and an <hi>Advocate with that Father.</hi> It is very notable; If they have a
+potent <hi>Advocate</hi> with an Adverſary, they have an <hi>hope</hi> to
+prevaile: but having an <hi>Advocate with their Father,</hi> they can have no
+doubt; <hi>Wee have an Advocate with the Father, Jeſus Christ the 
+<note n="*" place="margin">1 Joh. 2.1.</note> Righteous.</hi> There
+can be no miſtake there, Prayers are very prevailing, there is in them an
+<hi>omnipo<g ref="char:EOLhyphen"/>tency,</hi> they command God, therefore are prayers <hi>the great
+Confidence of the godly.</hi> But here we muſt be informed, prayers are ſo
+indeed, not conſidered in themſelves: Alas no, the good mans confidence
+muſt be that which is perfection it ſelfe, compleat, and perfectly perfect:
+There is nothing ſo <hi>perfect,</hi> but Jeſus Chriſt, and
+juſtification by him; Therefore to build our Confidence upon
+<hi>Prayers,</hi> conſidered as a dutie onely, and no more, is <hi>to build a
+Tower upon an Oaten ſtraw.</hi> This then is the meaning, <hi>Prayers are a
+godly mans great Confidence,</hi> as they cloſe with a Promiſe, and make
+the ſoule cling and cleave to Chriſt. As prayer puts the ſoul into a
+ſure hand, the hand of a <hi>Mediator, The Amen, The Faith<g ref="char:EOLhyphen"/>full, and true
+Witnes:</hi>
+               <note place="margin">Rev. 3.7.14.</note> He that <hi>is holy, He that
+is true, &amp;c.</hi> In that hand the Soul and all her con<g ref="char:EOLhyphen"/>cernments, all her
+prayers touching that matter, concerning her particular well fare or the
+Churches, there the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are ſafe, and
+thence they ſhall receive Anſwer in the fitteſt time, a gracious, yea a
+glorious <hi>end.</hi> And ſo Prayers are a godly Mans Confidence. And ſo
+much for Explication, and Confirmation of the point. Now we will read the
+<hi>Experiences</hi> of the godly in all ages, touching this matter, That we
+may ſee, that which is of the vileſt account with vile men, is of the
+higheſt account with God, and good men <hi>I gave my ſelfe to 
+<note n="*" place="margin">Pſ. 109.4</note> Prayer,</hi> ſayes
+<hi>David,</hi> (i.e.) he made prayer his worke, when he was in a very ſad
+and unſetled caſe, <hi>Toſſed up and 
+<note n="*" place="margin">Verſ. 23.</note> down as a Locust</hi>
+(a very fit Emblem of the Church, the tides and changes of her affaires,
+<hi>up</hi> and <hi>downe</hi>) then he gave <hi>himſelfe to Prayer,</hi> and
+this fixed him, made him <hi>a quiet 
+<note n="*" place="margin">Iſ. 33.20.</note> habitation,</hi> who
+was before as unſtable as a <hi>Graſhopper,</hi> and gave him aſſu<g ref="char:EOLhyphen"/>red
+confidence, that the <hi>end</hi> muſt be good, ſo he ends with praiſe,
+<hi>I will greatly praiſe the Lord, &amp;c. David</hi> ſets downe two
+<hi>experiments</hi> he had made of this, I will mention no more, becauſe
+theſe are moſt notable, how he confounded <hi>ſtrength,</hi> and (that)
+<hi>Counſell</hi> (all for warre) which was as an <hi>Ora<g ref="char:EOLhyphen"/>cle;</hi> 
+               <note place="margin">1 Sam. 17.</note> While his mighty Adverſary
+curſed, <hi>David</hi> prayed, cloſed with an Almightie Arme, <hi>So</hi>
+his Adver<g ref="char:EOLhyphen"/>ſary fell before his face, and his owne ſword cut his throat. At
+another time, a great Counſellour diſ<g ref="char:EOLhyphen"/>ſerted <hi>David</hi> (as the
+manner is) when he ſaw that, he gave himſelf to Prayer, as his manner was,
+<hi>Lord</hi> ſayes he, <hi>I pray thee turn the Counſell of Ahitophel into
+fooliſhnes</hi>
+               <note place="margin">2 Sam. 15.31.</note> No ſooner asked, but
+it was done; <hi>The Lord defeated the good Counſell of Ahitophel,</hi>
+               <note place="margin">2 Sam. 17.14.</note> (good to bring about the horrid deſigne
+againſt <hi>David,</hi> the dethroning of him) and when he ſaw his Councell
+was not followed, wee know what fol<g ref="char:EOLhyphen"/>lowed, <hi>He teareth h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mſelfe in his anger,</hi> ſaith
+<hi>Bildad,</hi> [but his application was wrong] <hi>his own Coun<g ref="char:EOLhyphen"/>ſell caſt
+him downe, &amp;c.</hi>
+               <note place="margin">Job 18 4.7.8.</note> The Concluſion
+then ſtands firme, <hi>Prayers are a godly Mans Confidence</hi> (as before
+expounded) he is aſſured fully theſe will <hi>wheel</hi> all about,
+<hi>turn the Scene</hi> (where now we ſee nothing but drawne ſwords bathed
+in bloud) the <hi>end</hi> ſhall be gladſome, a glorious deliverance at the
+laſt. The poore People have put up Prayers to their Father, they ſhall be
+delivered-<hi>out,</hi> ſuſtained-<hi>in,</hi> or preſerved <hi>by</hi>
+the Judgement; For the Devourers mouth, which ſeemed to ſwallow-up, did
+carry <hi>Jo<g ref="char:EOLhyphen"/>nah</hi> ſafe to land: I ſaid, <hi>preſerved by the
+Iudgement,</hi> delivered by that, which ſeemes to the eye, an
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter deſtruct<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on. <hi>A few were ſaved by
+water;</hi>
+               <note place="margin">1 Pet. 3.20.</note> That water which drowned
+others ſaved a <hi>few.</hi> I know it does relate to <hi>Baptiſme;</hi>
+but we may apply it to the <hi>waters of affliction,</hi> wherein the wicked
+are drowned, but the Righteous are ſaved: The Lord will have <hi>reſpect to
+the Prayers of his ſervants,</hi>
+               <note place="margin">1 King. 8.28.</note>
+which they put up unto Him day and night I will make a ſhort account of a
+rich Treaſury. I could ſay as much of <hi>Prayer,</hi> as is ſaid of
+<hi>Faith;</hi> By prayer <hi>Abraham</hi> obtained as much as he deſired; So
+<hi>Iſaac,</hi> ſo <hi>Jacob:</hi> Looke how wide Faith opened their
+mouths, ſo they were filled By prayer <hi>Moſes</hi> tyed Gods hand,
+<hi>Let me alone Moſes,</hi> ſayes God, No, but he would not; A poore weake
+man overcomes the migh<g ref="char:EOLhyphen"/>tie God. <hi>Moſes</hi> did more then
+<hi>Ioſhuah</hi> did,<note place="margin">Joſh 10 12.</note> he commanded the
+Sunne and the Moone, (which is very notable) <hi>Moſes commanded God;</hi> He
+was pleaſed to be <hi>commanded ſo,</hi>
+               <note place="margin">Iſa.
+45.11.</note> to tell his People how <hi>command<g ref="char:EOLhyphen"/>ing</hi> a thing Prayer is. It
+is the moſt efficacious of any thing in Heaven or Earth; It has the
+quickeſt<pb n="5" facs="tcp:159075:3"/>motion, and as quick a returne: I meane ſtill,
+the prayer of the deſtitute, (a people looſe from, and for<g ref="char:EOLhyphen"/>ſaken of all
+humane help) for their prayer is <hi>powred forth now.</hi> The eye is ſingle
+towards God, ſted<g ref="char:EOLhyphen"/>faſtly ſet Heaven-wards: The extremitie is great, the
+Adverſaries pride at the higheſt peg, the people of God at the loweſt
+<hi>eb,</hi> in a periſhing condition, <hi>Refuge faileth,</hi> they are
+importunate, they will give <hi>God no reſt;</hi> then God hearkens and
+heares, then the <hi>return</hi> is quick and ſpeedy. For there is no
+<hi>help on earth.</hi> Now mark it evermore, <hi>He ſhall ſend from Heaven
+and ſave me,</hi> ſayes <hi>David</hi>
+               <note place="margin">Pſal.
+75.3.</note> in his <hi>Mictham,</hi> words worthy to be written in golden
+Letters, when there is no help in earth, <hi>He ſhall ſend from Hea<g ref="char:EOLhyphen"/>ven and
+ſave mee;</hi> The Churches confidence for ever. I will skip over a large
+Chronicle, and obſerve onely one prayer there, King <hi>Hezeckiah</hi> is
+greatly diſtreſſed, A proud Adverſary has begirt the Citie round; And
+now, <hi>There is but one thing remaines,</hi> which the King can doe for his
+ſecuritie, and that he does, he falls downe upon his knees, <hi>Spreads the
+Letter,</hi> the rebukes, the blaſphemies, the great ſtraights, he and his
+people were in; all this he ſpreads beford the <hi>Lord,</hi> and he calls-in
+for help, ſends Meſſengers to <hi>Iſaiah,</hi> tells him, there is but
+one way to take (a ſure way) to goe to God by <hi>Prayer,</hi> O let us not
+neglect that way; Wherefore lift-up <hi>thy Prayer for the remnant that are
+left.</hi>
+               <note place="margin">2 King. 19.4.</note> Sith there is but one way
+left open, let us preſſe-on in it, and weary the <hi>Lord</hi> with
+importunitie. Now what ſayes the <hi>Lord? That which thou haſt
+prayed to Me, againſt Senacherib King of Aſſyria, I have heard.</hi>
+               <note place="margin">2 King. 19.20.</note> There was a quick <hi>Returne,</hi> and the
+execution is as quick, for the next Newes we reade, is, 
+<q rend="inline">"And when they aroſe early in the morning,
+behold in the Camp of the Aſſyrians, they were all dead corpſes.<note place="margin">Verſ. 35.</note>
+               </q> The time would faile me, elſe I could
+tell you of a <hi>Thundering Legion,</hi> That a whole Army was like to
+pe<g ref="char:EOLhyphen"/>riſh for want of water; <hi>Nothing remained then, but Prayer,</hi> and to
+prayer they went; Prayers reached Heaven preſently, opened the Clouds, ſo
+as they powred downe raine in abundance. Though the foole makes but a mock of
+<hi>Prayer,</hi> as if it were like his, an abomination, a
+<hi>mock-Prayer,</hi> yet I could tell you, the Adverſary has been ſo
+wiſe, and knowing touching this matter, that ſhe has profeſſed, ſhe
+feared the prevalency of Prayer, above what a mighty Army could doe, more the
+prevalency of one man, of whom you might ſay, <hi>Behold he prayeth,</hi>
+then the power of an Army of many thouſands. To draw-up toward a
+concluſion, Prayer does all, at home and abroad, in <hi>private</hi> affaires
+and in <hi>publique;</hi> It keeps the houſe, it locks the doores, it makes
+two of one minde in an houſe, it bleſſeth the children, it makes all
+things thrive there, it feeds the horſe, plowes the ground, houſes the
+corne, makes all things proſper. What? Then the man may be lazy the while?
+No, that cannot be, it makes a man moſt carefull and conſcio<g ref="char:EOLhyphen"/>nable in the
+uſe of all meanes, though he ſtayes and bottoms himſelfe upon none; his
+reſt is upon God alone in Chriſt, there his Prayer fixeth: So for the
+<hi>Private.</hi> For the <hi>Publique</hi> now, ſee how prevailing and
+ſerviceable this <hi>Ordinance</hi> is, it binds Gods hand; when the ſword
+is drawne, it ſheaths it againe; it ſtops the mouth of that
+<hi>Devourer;</hi> it binds Kings in chaines, and Nobles in fetters of iron; it
+makes warres to ceaſe, and lets the oppreſſed goe free; it limits proud
+wrath, it ſets unto it its bounds, as to the raging Seas, <hi>So far and no
+farther;</hi> But it never <hi>limits</hi> the <hi>Holy</hi> one of
+<hi>Iſrael,</hi> It ingages God to e<g ref="char:EOLhyphen"/>very buſines, and ingageth the heart
+to truſt in Him; and ſo there is an <hi>omnipotency</hi> in Prayer, &amp;c.
+The ſervant of the Lord writeth upon every thing <hi>Askt of God,</hi> [for
+what ſoever is not ſo <hi>Asked,</hi> cannot come to him as a Bleſſing]
+and the <hi>gift of God.</hi> And if it be a Nationall Bleſſing [for that
+his mouth is wideſt open, he is no body for himſelfe, but as the Church may
+proſper] this he calls <hi>Naptali,</hi>
+               <note place="margin">Gen. 30.8.</note>
+the child of <hi>my wraſtling,</hi> for with the <hi>wraſtling of God,</hi>
+fervent ſtrong Prayers hath he gained this bleſ<g ref="char:EOLhyphen"/>ſing] And as it is in the
+purpoſe of his heart to ſeek <hi>God</hi> ſtill, ſo he knows God heares
+Prayers ſtill (i.e.) gives gracious returnes unto them. The Lord has ſpoken
+good words, and comfortable, and they keep-up the <hi>Spirit of prayer</hi>
+alwayes; ſo that his ſervants cannot be diſcouraged and faint in their
+minds; <hi>Aske what you will, and it ſhall be done.</hi>
+               <note place="margin">Joh. 14.13 15.7.</note> O what unſpeakable grace is this! His
+ſervants aske nothing, but according to their Fathers <hi>will</hi> (in
+reference and ſubmiſſion thereunto.) And it is <hi>their
+confidence,</hi>
+               <note place="margin">1 Joh. 5.14</note> that their <hi>Father
+heareth them:</hi> And if they know this, <hi>That they are heard in
+whatſoever they aske,</hi> then they know they <hi>have the Petitions they
+deſire of Him.</hi> We muſt marke this with all obſervation, it will
+reſolve us fully in all that follows. Thus and thus it has fallen out to the
+Church in the <hi>North,</hi> thus in the <hi>South,</hi> and ſo in the
+<hi>Weſt,</hi> and is not all this a great diſheartning to a praying
+People? No, The contrary rather, all this puts <hi>heart</hi> into them, makes
+their prayer more <hi>lively,</hi> and ſervent. It is with theſe
+ſervants, as it was with their Maſter, the <hi>Lord Chriſt,</hi> the
+ſharper the <hi>Agony,</hi>
+               <note place="margin">Luke 22.44.
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> the more <hi>ear<g ref="char:EOLhyphen"/>neſtly
+intended</hi> &amp; ſtretched out are the prayers. But I will anſwer
+firſt to our <hi>Common Prayers,</hi> where<g ref="char:EOLhyphen"/>to we exſpect ſo preſent
+anſwer, for we muſt note, that I am to ſpeake here <hi>ſpecially</hi>
+to thoſe, that <hi>pray in Prayer,</hi> are the poore of the flock, a
+<hi>deſtitute people</hi> in the enemies account, whom the Lord, ap<g ref="char:EOLhyphen"/>pearing
+in his Glory,<note place="margin">Pſal. 102.16,17.</note> as now he does, (and
+he will be more glorious every day) does <hi>heare alwayes,</hi> even to their
+<hi>will</hi> and <hi>weal</hi> both, whereof anon: To our more common Prayers
+firſt, for we pray now; And doe we expect that God ſhould come-off roundly
+with us, and anſwer all at the firſt? Have wee come-off roundly with him in
+point of obedience, and good ſervice? I beleeve the moſt upright amongſt 
+<pb n="6" facs="tcp:159075:4"/>us cannot ſay, <hi>Yes;</hi> Well then, and doe we looke,
+that God ſhould <hi>turn</hi> to us the <hi>face</hi> preſently, and
+Anſwer us in every thing, when we have been ſo narrow-mouth'd in asking,
+ſo ſtraight-hearted in be<g ref="char:EOLhyphen"/>leeving, ſo ſlack in obeying,
+<hi>turning</hi> the <hi>back</hi> upon God ſo long, and perhaps yet longer,
+even at this preſent time; <hi>Regarding iniquitie in our hearts</hi> even
+now, when we would have God <hi>regard our Pray<g ref="char:EOLhyphen"/>ers:</hi> And would we be
+regarded? Expect we, that God ſhould regard our Prayers now! Wee might
+ex<g ref="char:EOLhyphen"/>pect rather, that God ſhould ſtrike us dead upon our knees, and that He
+has not done it, ſhould be mat<g ref="char:EOLhyphen"/>ter of wonder, and praiſe both. Has not God
+waited when man would turn; and will not man be con<g ref="char:EOLhyphen"/>tent to wait patiently,
+when God will turn to him? Surely they, who <hi>Pray in Prayer,</hi>
+               <note place="margin">James
+5.17.</note> indeed are a Pray<g ref="char:EOLhyphen"/>ing People, theſe are a <hi>waiting</hi>
+People; They can continue on their knees, or ſit downe aſtoniſhed, not
+wondring, that God do's not anſwer them in every thing, but rather, that God
+do's anſwer them in any thing, when they looke into themſelves, and upon
+prayer as a prayer onely, and no more but a du<g ref="char:EOLhyphen"/>tie, which they have formed by
+their owne ſtrength: And yet God is the hearer of Prayers, has heard their
+Prayers, and given a gracious return to them, from time to time, ſo as they
+can ſay, they never <hi>ſought God in vaine.</hi> To look no further back
+now than into theſe three yeares by-paſt, up to this pre<g ref="char:EOLhyphen"/>ſent day; What
+wonderfull Providences! Marveilous reſcues from the mouth of the Lyon, and
+paw of the ſhee Beare! Admirable deliverances! ſtrange diſcoveries! What
+were all theſe, but <hi>Naptalies</hi> all, the child, the fruit of <hi>my
+wraſtling,</hi> does theſe praying People ſay.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b.</note>But what will they ſay to theſe particulars, Theſe
+diſcomfitures in the <hi>North,</hi> and theſe in the <hi>South</hi> and
+<hi>Weſt;</hi> What will they ſay to <hi>Briſtoll?</hi> where was their
+God then? Theſe <hi>mad-men</hi> will goe neare to ſay, theſe are their
+<hi>Naptalies</hi> too, the fruit of their wreſtlings, of their groanes, and
+ſtrong cryes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Yes indeed, they will ſay ſo,
+and be confident in what they ſay, though their eares are too
+<hi>chaſte</hi> to heare theſe Blaſphemies: I will begin where the Rimer
+begins, with the <hi>North,</hi> and ſo goe compaſſe, and yet end
+preſently: That bright Starre there, the Lord <hi>Fairfax,</hi> hath ſhone
+gloriouſly, &amp; does ſhine, notwithſtanding all the <hi>forces</hi> of
+<hi>New-Castle,</hi> all the <hi>fraud</hi> &amp; <hi>treachery</hi> of the
+<hi>Father</hi> and the <hi>Sonne,</hi> to force out that <hi>light</hi> yet
+that <hi>light</hi> doth ſhine, and its luſtre is <hi>ſet-forth</hi> by
+all this force and fraud, and thereby made more glorious. And what is all this,
+but a <hi>Naptali,</hi> the fruit of the Churches <hi>wraſtling</hi> with
+their God, for and in behalfe of his ſervants there, and here. We muſt not
+paſſe over lightly how gloriouſly God has been and is ſeen in the
+<hi>North,</hi> an <hi>bearer of Prayers</hi> there, and here. How has the Lord
+<hi>bent</hi> the hearts, inclined the ſoule of the people to his Cauſe?
+What favour has He ſhewen his <hi>destitute</hi> people in the eyes one of
+another! England lifted up the hand, to the moſt High God for Scotland, now
+Scotland for England; They will joyne hand in hand, 
+<q rend="inline">"To ſtand faſt in one Spirit, with one minde,
+ſtriving together for the Faith of the Goſpel.</q> They will ſtand-up,
+<hi>knit together all as one man,</hi> againſt common Adverſaries, the
+Devill and his <hi>Hierarchy,</hi> with his <hi>Brutiſh Paſtors.</hi> Two
+onely there were in the Aſſembly of Miniſters, who withſtood this
+Covenant, a proud man, and as proud a <hi>Novice,</hi> neither of them cleared
+in Judgement touching <hi>Popery</hi> and <hi>Prelacy</hi> (twins) by all that
+has been written &amp; done theſe foure (I had almoſt ſaid foure hundred
+yeares, I will ſay foureſcore) we know them, and, we hope, they know now
+themſelves, what ſpirit they be of; The one a man of contention, The other
+a <hi>childe,</hi> who will learne to hold his tongue, till he has learnt how
+to ſpeake. <hi>Pacata Britannia eſt,</hi> England and Scotland, theſe
+<hi>twaine</hi> once are <hi>one</hi> now, ſweetly compoſed in their God,
+as a Citie Compact, and at unitie with it ſelfe, for they are in Covenant
+with their God, and each with other; <hi>I am as thou art, my people as thy
+people:</hi>
+               <note place="margin">2 Chro. 18.3.</note> All will <hi>ſtick
+together as one man,</hi> to with<g ref="char:EOLhyphen"/>ſtand this common Adverſary. What ſhall
+I ſay of this? The tongue of an Angel cannot utter it. But it is a
+<hi>Naptali,</hi> the fruit of the Churches ſtrong wraſtling. Thus has God
+don in the <hi>North,</hi> as won<g ref="char:EOLhyphen"/>derfully in the <hi>South.</hi> How has he
+got himſelfe a Name, &amp; made his Servant there a man of renowne, even the
+Man of his Right hand! But then indeed, for I muſt ſpeak all, yet nothing
+to diſhearten Pray<g ref="char:EOLhyphen"/>er, or to the Mans diſhonour: We fooles! we cannot have
+a glorious Inſtrument, but we muſt dote up<g ref="char:EOLhyphen"/>on it: We cannot have an
+excellent man to ſtand up for us, but we will make a god of him; The Lord God
+of gods ſaw this, our folly, and was angry; and ſo, when we would make man
+an Idol, God would breake him to pieces. And what is all this? A
+<hi>Naptali,</hi> a fruit of the Churches wraſtling; we ſhall ſee it more
+cleare anon. But this is cleare now, for now we are taught a great leſſon,
+<hi>To ceaſe from man,</hi>
+               <note place="margin">Iſa. 2.22.</note> and, <hi>To
+cleave to God,</hi> There-on to bottom our ſelves, and place our confidence.
+And <hi>Briſtoll</hi> too, the impoveriſhing of that, and doing more, the
+<hi>forcing</hi> of that Citie ſo, as never Citie has been ſo forced
+(ſince there was a Citie upon the Earth) by the fierceſt Salvages and
+moſt cruell Myrmidons. Indeed ſuch villanies, out-rages, notorious
+violences are committed there, that I am at a ſtand what to ſay. But yet I
+will call this a <hi>Naptali,</hi> a fruit of the Churches wraſtling; for we
+muſt note, the Church does wraſtle with her God, intreats, that Deliverance
+may come to his People: But ſhe does not <hi>limit the Holy One of
+Iſrael;</hi> They doe not bind him to their time, their inſtruments, and
+manner of working: They pray as men, they leave Him to worke, as a God, ſtill
+with ſubmiſſion to his <hi>will,</hi> ſtill reſolving 
+<pb n="7" facs="tcp:159075:4"/>all thither. And when they ſee what is the <hi>will</hi>
+and <hi>pleaſure</hi> of their God, who <hi>does all things well,</hi> they
+are well content. <hi>It is the Lord,</hi> ſay they, as <hi>Eli</hi> ſaid,
+<hi>Let him do what ſeemeth him good.</hi>
+               <note place="margin">1 Sam.
+3.18</note> He has don it, His people, as <hi>Aaron</hi> in a ſad Caſe,
+<hi>hold their Peace.</hi>
+               <note place="margin">Lev. 10.3.</note> And yet they are
+confident, God heares them alwayes, and has heard them in all that they asked,
+for they asked nothing, but <hi>according to his will,</hi> (marke that,)
+Therefore they have a confidence, that all, even this taking, and
+<hi>forcing</hi> of <hi>Bri<g ref="char:EOLhyphen"/>ſtoll</hi> ſhall be for the Churches
+<hi>weale,</hi> greatly to advance the glory of their God, and the rejoycing of
+his People. Their loſſes ſhall be their advantages, as to this time, ſo
+till time ſhall be no more. So the wiſe God will order it, who (made a
+<hi>Chaos,</hi> a <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) brings order
+out of the greateſt confuſion, life from the grave, and glory from the
+Croſſe; They will truſt God, who would ſuffer no evill to be, but that
+out-thence He does produce good; He will confound his Adverſaries by all
+this, the Adverſaries lifting-up ſhall tend to his ruine; God gives him
+ſcope, lets out the raines (gives him rope, he will ſtrangle himſelfe
+with it) puts power into his hands, which he does exerciſe now with a rage,
+that <hi>reacheth up to heaven;</hi> So high muſt his judgement reach,
+<hi>even to the Skies.</hi>
+               <note place="margin">Jer. 51.9.</note> He has
+exerciſed proud wrath, he has dealt treacherouſly: Now he ſees, as the
+Ammonite did, <hi>That he ſtinckes before all Iſ<g ref="char:EOLhyphen"/>rael.</hi> There is a
+notable diſcovery of the Adverſary at <hi>Briſtoll,</hi> his malice, his
+rage, his luſt. The Inha<g ref="char:EOLhyphen"/>bitants there, ſome of them, are diſcovered too,
+the treacherous Lawyer, and the vile Prieſt, with ma<g ref="char:EOLhyphen"/>ny more, a great mercy
+all this, and all this the fruit of Prayer The Lord will diſcover his own
+right hand alſo: Surely He that does nothing in vaine, has brought light out
+of the womb of darkneſſe, will worke gloriouſly here, for His manner is
+to make the moſt glorious light to appeare unto his Church, in that very
+place (the <hi>Weſt</hi>) where it ſeemed to ſet. The <hi>Churches light
+muſt riſe in obſcuritie:</hi> her <hi>darkneſſe muſt be as the
+noone day.</hi>
+               <note place="margin">Iſa. 58.10.</note> Doubtleſſe, the Lord
+will worke gloriouſly about <hi>Briſtoll,</hi> and thoſe parts, we have a
+<hi>word</hi> for it, that ſo He will doe, even a ſure word of Prophecie,
+where thus wee reade, <hi>Wherefore ſhould they ſay among the People, Where
+is their God?</hi> A cleare intimation, that ſo an Heathen people will ſay,
+when God delivers his people into their hands, they will doe after their
+manner, as the Heathen have done at all times, and now at <hi>Briſtoll,</hi>
+reproach God and his People, ſaying, <hi>Where is their God?</hi>
+               <note place="margin">Joel 2.17.</note> What then? Then it followes, <hi>Then ſhall
+the Lord be jealous for his Land, and pitie his People.</hi>
+               <note place="margin">Verſ. 18.</note> Then! When? When the enemy is ſo proud, ſo
+lifted up, that he dare re<g ref="char:EOLhyphen"/>proach God, aske where he is? When they deale ſo
+proudly, as the Heathen did at <hi>Briſtoll:</hi> How dealt they there? I
+tremble to tell the manner how, worſe then the Heathen did before them, or
+their Fa<g ref="char:EOLhyphen"/>thers, who <hi>platted a Crowne of Thornes, and put it upon the head
+of Chriſt:</hi> Theſe brutiſh men, worſe then thoſe Souldiers, have
+plotted a worſe matter, and caſt a greater reproach upon the Lord in Glory.
+<hi>When</hi> the Adverſary is ſo proud, <hi>Then</hi> will the Lord, as we
+read before, and as it followes, <hi>He will no more make you a reproach
+amongst the Heathen</hi> And does not the Lord pitie his People? Has he not
+begun to take away their reproach? May it not be ſaid, and for
+<hi>Glouceſter, What has the Lord done?</hi> The Adverſary is proud, for he
+is very confident, he has an <hi>Arme like God,</hi> (as <hi>Pharaoh</hi>
+before him) he ſaid, <hi>I will take that Citie, my luſt ſhall be
+ſatisfied upon them, I will draw my ſword, my hand ſhall deſtroy
+them.</hi> Obſerve, I pray you, what the Adverſary ſayes; <hi>I
+will,</hi> and <hi>I will,</hi> All ſhall be as he <hi>will,</hi> he never
+asketh God leave: No, I warrant you, God <hi>is not in all his thoughts:</hi>
+Tell him of God, and <hi>his will,</hi> he <hi>puffeth at you.</hi> Note it by
+the way, that this is an infinite diſadvantage to the Adverſary: He is upon
+a worke, which he cannot commit to God, he cannot adviſe with God about it,
+all the counſell he takes is from the Devills Oracle, and he digs deep to
+hide it, even unto hell; Therefore it is, that their deſigne many times,
+proves <hi>abortive,</hi> like an untimely birth in the <hi>wild</hi> of
+<hi>Kent:</hi> It diſ<g ref="char:EOLhyphen"/>chargeth it ſelfe, through haſte, like a poyſoned
+Peice of <hi>Ordnance,</hi> which flies off, but breakes all to pieces, and all
+about it. But when the Adverſary is ſucceſſefull and prevailes, it is
+by treachery, helliſh devices, and contrivances, the <hi>depths of
+Sathan:</hi> and ſo, prevailing by treachery, they oppreſſe the poore,
+who cannot reſiſt them, they exerciſe proud wrath upon them, as Devills
+incarnate, and as they did at 
+<note n="*" place="margin">It is no<g ref="char:EOLhyphen"/>torious how miſ<g ref="char:EOLhyphen"/>chievous
+theſe ſpoi<g ref="char:EOLhyphen"/>lers were (their cru<g ref="char:EOLhyphen"/>elty there, and every where, is
+unuttera<g ref="char:EOLhyphen"/>ble) they burnt as much wheat be<g ref="char:EOLhyphen"/>longing to one man as was worth 700
+pound.</note> 
+               <hi>Ciceſter,</hi> and <hi>Bristoll.</hi> Reader, I ſay
+againe, this is of infinite uſe, if thou wilt conſider this with it, the
+infinite advantage the Church has above her Adverſaries, Shee can
+<hi>Pray,</hi> while her Adverſaries do's <hi>Curſe</hi> and
+<hi>Blaſpheme</hi> that worthy Name, by which (ſhee) is called; ſhee can
+take Councell at Gods mouth, enquire, as <hi>David, of the Lord,</hi> at every
+turn, ſtrengthen, ſtabliſh, beare up her ſelfe, upon an Almightie Arme
+ſtill, here is an advantage, that cannot be expreſſed; but take all; the
+Church (I meane ſtill a poore People, rich in Faith) have no <hi>will</hi> of
+their owne, but what they have denied, and renounced, they have reſolved
+their <hi>wills</hi> into Gods <hi>will,</hi> and they ſay ſtill, as they
+ought to ſay, 
+<q rend="inline">"If the Lord will, we ſhall live, and doe this
+or that;<note place="margin">Jam. 4.15.</note>
+               </q> Not ours, 
+<q rend="inline">"but the will of the Lord be done;<note place="margin">Act. 21.14</note>
+               </q> So they <hi>ceaſe</hi> evermore, as their
+Brethren before them, concluding all their matters, and concernments under
+<hi>Gods will.</hi> Here is an infinite advantage, which the Reader may note by
+the way, and pardon the digreſſion. I returne now to our Adverſaries,
+where we found them Blaſpheming the worthy Name, and ſpeaking thus proudly,
+as we reade, <hi>Goe to now,</hi> ſay they, <hi>To day or to morrow,</hi>
+within a very few<pb n="8" facs="tcp:159075:5"/>houres, <hi>we will goe into ſuch a
+Citie</hi> (called <hi>Glouceſter</hi>) and, (kennell there, for they are
+dogges) <hi>continue there this Winter,</hi> where we will whore, and drab, and
+curſe, and blaſ<g ref="char:EOLhyphen"/>pheme (God damne us) and ſhed bloud to our power; ſo
+proudly they ſaid, ſo they <hi>will</hi> doe, ſuch a <hi>good will</hi>
+they have, and ſo headlong it carries them. Now heare what the Lord will doe;
+The Lord, who does <hi>caſt abroad the rage of his wrath, beholds every man,
+that is proud, and abaſeth him;</hi>
+               <note place="margin">Job 40.</note> does
+confound daring attempts, horrid rage, and curſed blaſphemy; decks
+<hi>himſelfe with Majeſtie, and excellency,</hi> for the very purpoſe,
+<hi>to reſiſt</hi> (to ſet himſelfe in Battle-Array againſt the
+Proud)<note place="margin">James 4.6.
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> He will ſhew himſelfe
+glo<g ref="char:EOLhyphen"/>rious in power now; the Right hand of the Lord will daſh in pieces the
+enemy. Wee know the Lord has done it, though we had heard nothing touching that
+matter, for God does reſiſt the proud; the God of Hoaſts ſets
+<hi>Himſelfe in Battle-Array</hi> againſt ſuch haughty
+<hi>Perſons;</hi> The <hi>loftie lookes of man ſhall be humbled:</hi> and
+<hi>the haughtineſſe of Men ſhall be bowed downe,</hi> ſaith the
+Lord;<note place="margin">Iſa. 2.11.</note> and as He ſaith, ſo He has
+done; And He a<g ref="char:EOLhyphen"/>lone <hi>ſhall be exalted in that day.</hi> Wee will give now
+all, that is due unto man, to his courage, to his faithfulneſſe; but we
+muſt aſcribe Salvation to our God: He has mar<g ref="char:EOLhyphen"/>ched valiantly; He ſaw
+there was none to helpe; Therefore <hi>His Arme brought Salva<g ref="char:EOLhyphen"/>tion, He has
+repayed fury to his Adverſaries, recompences to His Enemies.</hi> In whom the
+Church does truſt; He <hi>will yet deliver;</hi> He will goe on to ſhew
+favour, to compleat His victories; He will take the matter into his owne hands;
+He will doe, as his Ad<g ref="char:EOLhyphen"/>verſaries ſaid in their pride they would doe; The
+Lord <hi>will purſue,</hi> He <hi>will overtake;</hi> He <hi>will divide the
+ſpoyle.</hi> Theſe <hi>Balaams</hi> now are Poſting to another place, and
+they Boaſt ſtill what they will doe there, They will doe to — as they
+have done to <hi>Briſtoll,</hi> and as they would have done to
+<hi>Glouceſter:</hi> So they will do, they have a good <hi>will</hi> unto it,
+but God has them in his chaine, and has put a hooke in their noſtrells, and a
+Bridle into their mouths, and He will ſend his <hi>men of warre after
+them,</hi> carryed-on upon the wing of <hi>Prayer,</hi> put up from all the
+corners of the world, and all his people there; carried alſo upon the wing of
+Faith. The Church hopes, her people will not make Idolls of men any more; then
+they ſhall be broken in pieces no more. Shee hopes, that her people are, if
+not fit, yet fitting for deliverance; and her Adverſaries
+<hi>rotten-ripe</hi> for deſtruction; if their iniquities not yet ful, yet
+filling up to the brim, now they have reproached the Lord, now their mouths are
+ſo wide open to utter blaſphe<g ref="char:EOLhyphen"/>mies, ſurely the Church ſees now their
+<hi>day is coming;</hi> It is at hand. But ſhee has reſol<g ref="char:EOLhyphen"/>ved all touching
+that matter, into Gods <hi>will,</hi> ſhee referres all to his time. If he
+will make more breaches upon her, ſhe is humbled, and can <hi>accept of her
+puniſhment,</hi> for ſhe knowes the time is coming, even the ſet-time,
+when <hi>her Lord will make mak up his Jew<g ref="char:EOLhyphen"/>ells,</hi> and <hi>Build the
+Tabernacle of David</hi> which is fallen. And how ever the Lord may deale with
+her for the preſent (it is His Prerogative Royall to deal with her as he
+plea<g ref="char:EOLhyphen"/>ſeth: but mercy pleaſeth him) If He ſuffer His people to be longer
+toſſed-up and downe like a Graſhopper, it is to ſettle them the
+faſter upon the Rock. They know, <hi>God is Maſter of the end;</hi> What
+ever the <hi>Premiſes</hi> are, he makes the <hi>Concluſion.</hi> So they
+have concluded, and this is their confidence, What they looſe in the world,
+they ſhall gaine in Heaven: All their loſſes here, ſhall be their
+Advantages here and there; What they miſſe of here below, they ſhall
+finde abundantly recompenced in Chriſt above; as their ſufferings are,
+their conſolations ſhall be. In the meane time, they, as was ſaid,
+<hi>limit not the Holy One of Iſrael;</hi> They leave him to His owne
+<hi>will, worke,</hi> and <hi>time;</hi> They have reſolved their
+<hi>will</hi> into His good Pleaſure; <hi>His will be done, Amen.</hi>
+Hither<g ref="char:EOLhyphen"/>to He has done all things well, even when He broke His Armies to pieces,
+He made them up again with advantage, two for one. Who would diſtruſt this
+God? Surely<pb n="9" facs="tcp:159075:5"/>the Church will not. They will not <hi>forſake
+their confidence;</hi> They have Prayed, and they have been heard ſtill, and
+they will pray evermore, and are aſſured, that, when things are lower then
+yet they are, or like to be, their Prayers will <hi>wheel-up</hi> all again,
+and turne the Scene contrary to all expectation, but the godly mans. The
+cauſe is Gods cauſe; the mannagers of it, His people; God will maintaine
+his owne cauſe, and <hi>ſpare his People, according to the greatnes of His
+mercy, Amen and Amen.</hi>
+            </p>
+            <p>I muſt adde here; Whereas it is cleared now, what a mightie
+Inſtrument Prayer is, how prevailing a weapon ever-more; And that it is the
+Churches weapon, whereby ſhe turnes and wheeles about things, when they
+ſeeme to be gone, quite fallen, and de<g ref="char:EOLhyphen"/>ſperately loſt; When this is
+cleared, This muſt not be concluded, That this is the Churches onely
+<hi>weapon,</hi> ſhee muſt not uſe the <hi>Sword.</hi> Maſter
+<hi>Calvin,</hi>
+               <note place="margin">
+                  <hi>Cal Inſtit. li.</hi> 4. <hi>ca.</hi>
+20. <hi>ſect.</hi> 24, 25. <hi>&amp;c.</hi>
+               </note> who has ſaid as much, I
+beleeve, as any man in the world, touching the ſacred Majeſty of Kings, and
+obedience due unto them; When he has ſaid all, as much as can be ſaid, and
+yet no more; but what we all ſay, who ſpeake by the Booke of God, he
+adjoynes, 
+<note place="margin">
+                  <hi>De priva<g ref="char:EOLhyphen"/>tis homini<g ref="char:EOLhyphen"/>bus ſemper loquor.
+Sect.</hi> 34.</note>
+               <hi>All that I have ſpoken touching obedience to Kings,
+or ſuffering from their hands, is ſpoken to private men;</hi> I doe not
+meane the <hi>Ephori,</hi> who curbed the Lacedemonian power; nor the
+<hi>Tri<g ref="char:EOLunhyphen"/>bunes,</hi> who righted the Romane People, when their Conſuls did
+them wrong, &amp;c. Nor the Parliament in <hi>England;</hi> And there he has
+theſe words, 
+<note place="margin">
+                  <hi>Si regibus impotenter graſſanti<g ref="char:EOLhyphen"/>bus
+conni<g ref="char:EOLhyphen"/>veant, eoru<g ref="char:cmbAbbrStroke">̄</g> diſsimula<g ref="char:EOLhyphen"/>tione<g ref="char:cmbAbbrStroke">̄</g> nefa<g ref="char:EOLhyphen"/>rid perfi<g ref="char:EOLhyphen"/>dia non</hi> carere
+af<g ref="char:EOLhyphen"/>firmo. 32</note>
+               <hi>If the Parliament there,</hi> (or any where) <hi>ſhall
+winke at the Kings exorbitancy, cruſhing the poore, and grind<g ref="char:EOLhyphen"/>ing the faces
+of the needy;</hi> If ſo, <hi>Then doe the Parliament deale treacherouſly,
+They betray the poore of the flocke, and the truſt of the Kingdome.</hi>
+There is but one Section more, and but a word out of it, which will ſtop
+their mouths, who flap us in the mouth with this ſtill, <hi>That they have
+ſworn obedience to their King.</hi> You muſt ever except this here, ſayes
+Maſter <hi>Calvin; If it does not croſſe the Rule, and Gods command; That
+you may ſatisfie men, you muſt not be ſo fool-hardy, as to incurre the
+diſpleaſure of God, the God of Gods and Lord of Lords. Calvin</hi> has a
+little more, but too much for me to ſet downe here; I would rather Kings did
+read it, for it highly concerns them, even above their Crown.</p>
+            <p>Three lines more muſt be added, they will be of infinite uſe.
+The Adverſary here has carved-forth the Churches allowance, which ſhee
+accepts, abundantly thankfull to her God. And now in this time of
+diſtraction, ſo full of buſſel, and confuſion, the Church has but one
+work to doe, which ſhee attends with all care and watchfulneſſe; 
+<q rend="inline">"Their keeping their Spirit cleane, that their
+Prayers may be pure; Their intercourſe, and commerce to Heaven kept open; and
+their Communion intire with the <hi>Father and the Sonne.</hi>
+               </q> This is
+their worke, and they give their heart unto it. And now, though the Earth be
+ſmitten, and ſtagger like a drunken man; Though it open wide whilſt ſhe
+gives up her dead, and diſcovers her ſlaine, and vomits-up the
+<hi>Hierarchy,</hi> with all their <hi>Brutiſh Paſtors,</hi> who have been
+a burden to her ſo long, and cumbered her ground. Though <hi>a great
+quaking</hi> fall upon the Kingdoms of the world, ſo as they be ſmitten
+together, and broken to pieces; yet theſe People cannot be <hi>carefull,</hi>
+not <hi>greatly moved;</hi> There <hi>is a River</hi> ſhall refreſh them in
+this drougth, and an hand ſhall hold them faſt in this
+<hi>Earth-quake,</hi> while the Lord is <hi>performing his whole worke upon
+mount Sion, and on Jeruſalem;</hi> While he is making an <hi>end,</hi> and
+drawing the <hi>Concluſion,</hi> which will be to the heart of His People,
+gracious and glorious, Amen. So much to the firſt Blaſphemy, and the
+concluſion therefrom; I will but name the other. 2. <hi>That theſe Praying
+People are newly fallen mad.</hi>
+            </p>
+            <p>Not <hi>newly</hi> ſure; they were anciently ſo mad as now
+they are; ever ſince they could not run with thoſe, that blaſpheme them
+ſo, into the ſame <hi>exceſſe of Riot with them;</hi>
+               <note place="margin">1 Pet. 4.4.</note> Ever ſince they did abominate <hi>Babylons
+Wine,</hi> which, indeed, has made all the Earth<pb n="10" facs="tcp:159075:6"/>
+               <hi>druncken,</hi> and <hi>the Nations mad, as at this day;</hi>
+               <note place="margin">Jer. 51.7.</note> Ever ſince they kept their foot from the Path
+of <hi>the deſtroyer,</hi> and loathed the way of <hi>Cain;</hi> ever ſince
+they ſerved their God, according to the Rule of His will; Ever ſince they
+could Pray <hi>indeed,</hi> (in the Holy Ghoſt) have they been accounted a
+mad People. By thoſe that are mad indeed, mad upon their Idols; mad with rage
+[as your poore flock of ſheep never are; But <hi>Armen<g ref="char:EOLhyphen"/>ta</hi> and
+<hi>Pecora,</hi> the <hi>Kine and Bulls of Baſhan, Nimrods,</hi> mighty
+hunters before the Lord, great oppreſſors of the world, Beaſts-like-men,
+theſe are mad, and ſo we ſay in ordi<g ref="char:EOLhyphen"/>nary ſpeech; But a <hi>mad flock
+of ſheep</hi> was never heard off from the beginning to this day] Theſe are
+harmleſſe, gentle, and meek, to a Proverb; and ſo meek they muſt be and
+humble, for they are the poore of the flock, and God has humbled them, He has
+<hi>meekned</hi> their hearts; for He has laid open their hearts unto them,
+ſo they know them<g ref="char:EOLhyphen"/>ſelves now, and have ſo learnt Chriſt, that they are
+lowly, meek, and vile in their own eyes, and content to be <hi>more vile and
+baſe in their owne ſight.</hi> But they bleſſe God for this reproach
+above many, for ſo they reproached Chriſt their Head; even ſo, <hi>He
+hath a Devill, and is mad.</hi>
+               <note place="margin">Joh. 10.26</note> This makes
+them leape for joy, becauſe their Lord Chriſt was ſo reproached: For as
+they are made conformable to their Lord Chriſt in their ſuffe<g ref="char:EOLhyphen"/>rings from
+the hand and tongue; ſo ſhall they be made conformable to Him in their
+conſolations; They are as he was, ſo blaſphemed in the world; they
+ſhall be <hi>as He is, in Glory.</hi>
+               <note place="margin">1 Joh. 3.2.</note>
+What manner of Glory? Nay, had I the tongue of an Angel, I could not tell you
+that, I can reade it as you can, That, when the Lord Chriſt, <hi>ſhall
+appeare,</hi> theſe (poore of the flock) <hi>ſhall be like Him,</hi> and
+ſee him <hi>as He is;</hi> like him, and as He is! I can ſay no more, but
+admire: O the weight of glory! Onely, if you are of the number of thoſe
+deſtitute ones, the <hi>poore of the flock,</hi> take your Fathers
+bleſſing before you goe; <hi>Bleſſed are yee, when men ſhall revile
+you, perſecute you, and ſhall ſay all manner of evill againſt you,
+falſly for my ſake. Rejoyce and be exceeding glad, for great is your reward
+in Heaven, for ſo perſecuted they the Prophets which were before
+you.</hi>
+               <note place="margin">Mat. 5.11,12.</note>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>A Poſtſcript.</head>
+            <p>Here is a vacant place, I will tell two ſtories, and fill it up,
+one touching a <hi>perſon,</hi> the other a <hi>Thing:</hi> All is
+heatheniſh, but we can make it Chriſtian, and very ſutable to all that is
+ſaid before. <hi>Sophocles,</hi> a grave Poet indeed, lived a monaſtick
+life, retired, and much in meditation. He is a <hi>fool</hi> and <hi>mad</hi>
+both ſaid ſome, (they were his ſonnes) and ſo in our common ſpeech,
+they would have begg'd their Father for a fool &amp; a mad-man, fit to have a
+<hi>Guardian</hi> over him, unfit to be a guardian over others; his ſonnes
+were fit<g ref="char:EOLhyphen"/>ter men, they thought: pretty youths! The father, after his manner,
+ſaid little, but did much, and yet held cloſe to his <hi>work,</hi> &amp;
+quickly ſhewed it to the Judges: 
+<q rend="inline">"See, Sirs, ſaid he, is this the worke of a fool
+&amp; a mad-man?</q> The application muſt be ſhort, the beſt men are
+juſt ſo accuſed by (ſons I will not call them) baſtards not ſons,
+becauſe they <hi>pray,</hi> they <hi>ſing Pſalmes,</hi> they maintaine
+communion with their God. 
+<note place="margin">Aug de
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> I aſſure thee,
+Reader, this was all could be charged againſt them in the worſt times, and
+by their fierceſt enemies, theſe enemies themſelves being Judges: Well!
+they will keepe to their work the cloſ<g ref="char:EOLhyphen"/>ſer for this. And when their work
+ſhall be manifeſt, as one day it ſhall, and the thoughts of all hearts:
+Then, what ever the wicked think now, they will ſay then<g ref="char:punc">▪</g> 
+               <q rend="inline">"Theſe were the onely ſober &amp; wiſeſt
+men:</q> So much of the <hi>perſon.</hi>
+            </p>
+            <p>Of the <hi>thing</hi> next, <hi>Archimedes</hi> had an Engine the
+ſtrangeſt that ever was in the world. Therewith he defended a Citie bigger
+then <hi>Glouceſter,</hi> and defeated a ſtorming enemy there: To tell all
+in a word, This man thus boaſted of himſelfe and this Engine, 
+<q rend="inline">"Give me another earth, ſaid he, whereon to
+ſet my foot, and I will pluck-up this earth, and throw it like a ball, Sea
+and all.</q> Truely I cannot but ſmile at his conceit: As <hi>Diogenes</hi>
+ſaid, 
+<q rend="inline">"He would ſee how he could drinke out of his
+hand, before he would throw away his diſh:</q> So this great Ingeneere would
+have ſure footing on another <hi>earth,</hi> before he would caſt away
+this; but he did expreſſe the energie and ſtrange working of his Engine
+very well. There are a people, who have as ſtrange an Engine as this: which
+we call (nothing but) Prayer: Ile tell you what it will doe, defend a Citie
+from a ſtorming Adverſary: More then ſo; It will pluck up earth to
+heaven, and pluck down heaven to earth: I have neither time nor ſpace to
+ſay more, but ſo it will doe.</p>
+            <trailer>An End.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
